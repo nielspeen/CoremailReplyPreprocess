@@ -19,7 +19,7 @@
   "files": [
     "start.php"
   ],
-  "img": "/modules/CoremailReplyPreprocess/coremail.png",
+  "img": "https://raw.githubusercontent.com/nielspeen/CoremailReplyPreprocess/refs/heads/main/Public/coremail.png",
   "latestVersionUrl": "https://raw.githubusercontent.com/nielspeen/CoremailReplyPreprocess/refs/heads/main/module.json",
   "latestVersionZipUrl": "https://github.com/nielspeen/CoremailReplyPreprocess/archive/refs/heads/main.zip"
 }
