@@ -1,4 +1,4 @@
-# CoremailReplyPreprocess
+# Coremail Processor for FreeScout
 
 <img src="https://github.com/nielspeen/CoremailReplyPreprocess/blob/main/Public/coremail.png?raw=true" height="100" width="100">
 
