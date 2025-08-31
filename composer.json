@@ -1,0 +1,25 @@
+{
+    "name": "nielspeen/CoremailReplyPreprocess",
+    "description": "",
+    "authors": [
+        {
+            "name": "Niels Peen",
+            "email": "niels@nielspeen.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\CoremailReplyPreprocess\\Providers\\CoremailReplyPreprocessServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\CoremailReplyPreprocess\\": ""
+        }
+    }
+}
