@@ -1,5 +1,7 @@
 # CoremailReplyPreprocess
 
+![](https://github.com/nielspeen/CoremailReplyPreprocess/blob/main/Public/coremail.png?raw=true | width=100)
+
 FreeScout does not always parse Coremail replies correctly, making it seem 
 like the customer replied with an empty e-mail. 
 
